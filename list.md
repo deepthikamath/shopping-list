@@ -3,3 +3,4 @@
 - panda slippers
 - panda bag
 - panda hoodie
+- panda bed
